@@ -22,6 +22,7 @@ if (!defined('ABSPATH')) {
 require_once plugin_dir_path(__FILE__) . 'includes/myfirstplugin-functions.php';
 
 // Inclure le fichier contenant les fonctions de la page d'administration
+//test
 if (is_admin()) {
     require_once plugin_dir_path(__FILE__) . 'admin/myfirstplugin-admin-page.php';
 }
