@@ -1,0 +1,68 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles pour les éléments <svg> */
+svg {
+    width: 100%; /* Largeur à 100% de son conteneur */
+    height: auto; /* Hauteur automatique pour conserver le ratio */
+    max-width: 1000px; /* Largeur maximale pour éviter que le SVG ne devienne trop grand*/
+}
+ 
+/* Styles pour les éléments <path> */
+svg path {
+    fill: #00394f;
+    stroke: #eee;
+    stroke-width: .85;
+}
+
+/* Styles pour les éléments <path> au survol 
+svg path:hover {
+    fill: #0883ac;
+    transition: 0.4s;
+    cursor: pointer;
+}*/
+#tooltip {
+    display: none;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 5px;
+    z-index: 1000;
+    pointer-events: none;
+}
+.républiques-semi-présidentiel-hover {
+    fill: rgb(208, 255, 0);
+}
+
+.république-hover {
+    fill: rgb(0, 51, 255);
+}
+
+.république-avec-un-parti-unique-hover {
+    fill: rgb(108, 64, 3);
+}
+
+.monarchies-absolues-hover {
+    fill: rgb(111, 4, 111);
+}
+
+.monarchies-constitutionnelles-hover {
+    fill: rgb(206, 34, 39);
+}
+
+.dictatures-militaire-hover {
+    fill: rgb(5, 105, 39);
+}
+.république-à-régime-parlementaire-hover{
+    fill: orangered;
+}
+
+
+textarea{
+    margin: 0;
+    padding: 0;
+}
+
