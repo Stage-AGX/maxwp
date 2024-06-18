@@ -16,7 +16,7 @@ add_action('wp_footer', 'myfirstplugin_function');
 add_shortcode('hello_world', 'shortcode_helloworld');
 add_shortcode('svg_coucou', 'shortcode_svg_coucou');
 add_shortcode('svg_map','shortcode_svg_map'); 
-add_shortcode('svg_liste','generate_policy_dropdown'); // Pas encore implémenté
+add_shortcode('svg_liste','dropdown_politique'); // Pas encore implémenté
 
 // Fonction qui affiche le hello world
 function shortcode_helloworld(){
@@ -48,24 +48,42 @@ function myfirstplugin_load_scripts() {
 add_action('wp_enqueue_scripts', 'myfirstplugin_load_scripts');
 
 // Fonction qui retourne le SVG de la carte avec les données du JSON
-function shortcode_svg_map(){
+function shortcode_svg_map() {
     // Chemin vers le fichier SVG
     $svg_file = plugin_dir_path(__FILE__) . '../svg/world.svg';
     
     // Récupérer le contenu du fichier SVG
     $svg_content = file_get_contents($svg_file);
     
-    // Chemin vers le fichier JSON
-    $json_file = plugin_dir_path(__FILE__) . '../json/countries.json';
-    
-    // Récupérer le contenu du fichier JSON
-    $json_data = file_get_contents($json_file);
+    // Chemin vers les fichiers JSON des pays et des politiques
+    $json_countries_file = plugin_dir_path(__FILE__) . '../json/countries.json';
+    $json_categ_file = plugin_dir_path(__FILE__) . '../json/categ.json';
 
-    // Retourner le SVG avec le script intégré
-    return '<div id="tooltip" style="display: none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 5px; z-index: 1000;"></div>
+    // Récupérer le contenu des fichiers JSON
+    $json_countries_data = file_get_contents($json_countries_file);
+    $json_categ_data = file_get_contents($json_categ_file);
+
+    // Retourner le SVG avec les scripts intégrés
+    return '
+    
+    <div id="tooltip" style="display: none; position: absolute; background: #fff; border: 1px solid #ccc; padding: 5px; z-index: 1000;"></div>
     <script>
-        var countriesData = ' . $json_data . ';
+        var countriesData = ' . $json_countries_data . ';
+        var categData = ' . $json_categ_data . ';
     </script>
     ' . $svg_content;
 }
 add_shortcode('svg_map', 'shortcode_svg_map');
+
+function dropdown_politique() {
+    return '
+    <label for="policy-select">Choisissez une politique:</label>
+    <select id="policy-select">
+        <option value="">--Sélectionnez une politique--</option>
+        <option value="République">République</option>
+        <option value="Monarchie">Monarchie</option>
+        <option value="Autre">Autre</option>
+    </select>';
+}
+add_shortcode('dropdown_politique', 'dropdown_politique');
+
