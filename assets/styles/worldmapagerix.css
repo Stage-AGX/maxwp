@@ -1,0 +1,54 @@
+.cagerix-map-container {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.wrap {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+input.color-picker {
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+
+#worldmap-svg path {
+    transition: fill 0.3s ease;
+}
+
+.svg-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    width: 200%;
+    height: auto; 
+}
+
+#worldmap-svg {
+    width: 100%; 
+    max-width: 1350px; 
+    height: auto; 
+    position: relative;
+}
+
+#category-select {
+    margin-bottom: 10px;
+}
+
+#list-country {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+#list-country li {
+    margin-right: 10px;
+    display: inline-block;
+}

@@ -1,0 +1,887 @@
+{
+    "AF": {
+        "countryJsonId": "AF",
+        "countryJsonName": "Afghanistan",
+        "country-json-continent": "Asia"
+    },
+    "AO": {
+        "countryJsonId": "AO",
+        "countryJsonName": "Angola",
+        "country-json-continent": "Africa"
+    },
+    "AL": {
+        "countryJsonId": "AL",
+        "countryJsonName": "Albania",
+        "country-json-continent": "Europa"
+    },
+    "AE": {
+        "countryJsonId": "AE",
+        "countryJsonName": "United Arab Emirates",
+        "country-json-continent": "Asia"
+    },
+    "AR": {
+        "countryJsonId": "AR",
+        "countryJsonName": "Argentina",
+        "country-json-continent": "South America"
+    },
+    "AM": {
+        "countryJsonId": "AM",
+        "countryJsonName": "Armenia",
+        "country-json-continent": "Europa"
+    },
+    "TF": {
+        "countryJsonId": "TF",
+        "countryJsonName": "French Southern and Antarctic Lands",
+        "country-json-continent": "Europa"
+    },
+    "AU": {
+        "countryJsonId": "AU",
+        "countryJsonName": "Australia",
+        "country-json-continent": "Oceania"
+    },
+    "AT": {
+        "countryJsonId": "AT",
+        "countryJsonName": "Austria",
+        "country-json-continent": "Europa"
+    },
+    "AZ": {
+        "countryJsonId": "AZ",
+        "countryJsonName": "Azerbaijan",
+        "country-json-continent": "Europa"
+    },
+    "BI": {
+        "countryJsonId": "BI",
+        "countryJsonName": "Burundi",
+        "country-json-continent": "Africa"
+    },
+    "BE": {
+        "countryJsonId": "BE",
+        "countryJsonName": "Belgium",
+        "country-json-continent": "Europa"
+    },
+    "BJ": {
+        "countryJsonId": "BJ",
+        "countryJsonName": "Benin",
+        "country-json-continent": "Africa"
+    },
+    "BF": {
+        "countryJsonId": "BF",
+        "countryJsonName": "Burkina Faso",
+        "country-json-continent": "Africa"
+    },
+    "BD": {
+        "countryJsonId": "BD",
+        "countryJsonName": "Bangladesh",
+        "country-json-continent": "Asia"
+    },
+    "BG": {
+        "countryJsonId": "BG",
+        "countryJsonName": "Bulgaria",
+        "country-json-continent": "Europa"
+    },
+    "BS": {
+        "countryJsonId": "BS",
+        "countryJsonName": "Bahamas",
+        "country-json-continent": "Central America"
+    },
+    "BA": {
+        "countryJsonId": "BA",
+        "countryJsonName": "Bosnia and Herzegovina",
+        "country-json-continent": "Europa"
+    },
+    "BY": {
+        "countryJsonId": "BY",
+        "countryJsonName": "Belarus",
+        "country-json-continent": "Europa"
+    },
+    "BZ": {
+        "countryJsonId": "BZ",
+        "countryJsonName": "Belize",
+        "country-json-continent": "Central America"
+    },
+    "BO": {
+        "countryJsonId": "BO",
+        "countryJsonName": "Bolivia",
+        "country-json-continent": "South America"
+    },
+    "BR": {
+        "countryJsonId": "BR",
+        "countryJsonName": "Brazil",
+        "country-json-continent": "South America"
+    },
+    "BN": {
+        "countryJsonId": "BN",
+        "countryJsonName": "Brunei Darussalam",
+        "country-json-continent": "Asia"
+    },
+    "BT": {
+        "countryJsonId": "BT",
+        "countryJsonName": "Bhutan",
+        "country-json-continent": "Asia"
+    },
+    "BW": {
+        "countryJsonId": "BW",
+        "countryJsonName": "Botswana",
+        "country-json-continent": "Africa"
+    },
+    "CF": {
+        "countryJsonId": "CF",
+        "countryJsonName": "Central African Republic",
+        "country-json-continent": "Africa"
+    },
+    "CA": {
+        "countryJsonId": "CA",
+        "countryJsonName": "Canada",
+        "country-json-continent": "North America"
+    },
+    "CH": {
+        "countryJsonId": "CH",
+        "countryJsonName": "Switzerland",
+        "country-json-continent": "Europa"
+    },
+    "CL": {
+        "countryJsonId": "CL",
+        "countryJsonName": "Chile",
+        "country-json-continent": "South America"
+    },
+    "CN": {
+        "countryJsonId": "CN",
+        "countryJsonName": "China",
+        "country-json-continent": "Asia"
+    },
+    "CI": {
+        "countryJsonId": "CI",
+        "countryJsonName": "C\u00f4te d'Ivoire",
+        "country-json-continent": "Africa"
+    },
+    "CM": {
+        "countryJsonId": "CM",
+        "countryJsonName": "Cameroon",
+        "country-json-continent": "Africa"
+    },
+    "CD": {
+        "countryJsonId": "CD",
+        "countryJsonName": "Democratic Republic of the Congo",
+        "country-json-continent": "Africa"
+    },
+    "CG": {
+        "countryJsonId": "CG",
+        "countryJsonName": "Republic of Congo",
+        "country-json-continent": "Africa"
+    },
+    "CO": {
+        "countryJsonId": "CO",
+        "countryJsonName": "Colombia",
+        "country-json-continent": "South America"
+    },
+    "CR": {
+        "countryJsonId": "CR",
+        "countryJsonName": "Costa Rica",
+        "country-json-continent": "Central America"
+    },
+    "CU": {
+        "countryJsonId": "CU",
+        "countryJsonName": "Cuba",
+        "country-json-continent": "Central America"
+    },
+    "CX": {
+        "countryJsonId": "CX",
+        "countryJsonName": "Northern Cyprus",
+        "country-json-continent": "Europa"
+    },
+    "CY": {
+        "countryJsonId": "CY",
+        "countryJsonName": "Cyprus",
+        "country-json-continent": "Europa"
+    },
+    "CZ": {
+        "countryJsonId": "CZ",
+        "countryJsonName": "Czech Republic",
+        "country-json-continent": "Europa"
+    },
+    "DE": {
+        "countryJsonId": "DE",
+        "countryJsonName": "Germany",
+        "country-json-continent": "Europa"
+    },
+    "DJ": {
+        "countryJsonId": "DJ",
+        "countryJsonName": "Djibouti",
+        "country-json-continent": "Africa"
+    },
+    "DK": {
+        "countryJsonId": "DK",
+        "countryJsonName": "Denmark",
+        "country-json-continent": "Europa"
+    },
+    "DO": {
+        "countryJsonId": "DO",
+        "countryJsonName": "Dominican Republic",
+        "country-json-continent": "Central America"
+    },
+    "DZ": {
+        "countryJsonId": "DZ",
+        "countryJsonName": "Algeria",
+        "country-json-continent": "Africa"
+    },
+    "EC": {
+        "countryJsonId": "EC",
+        "countryJsonName": "Ecuador",
+        "country-json-continent": "South America"
+    },
+    "EG": {
+        "countryJsonId": "EG",
+        "countryJsonName": "Egypt",
+        "country-json-continent": "Africa"
+    },
+    "ER": {
+        "countryJsonId": "ER",
+        "countryJsonName": "Eritrea",
+        "country-json-continent": "Africa"
+    },
+    "ES": {
+        "countryJsonId": "ES",
+        "countryJsonName": "Spain",
+        "country-json-continent": "Europa"
+    },
+    "EE": {
+        "countryJsonId": "EE",
+        "countryJsonName": "Estonia",
+        "country-json-continent": "Europa"
+    },
+    "ET": {
+        "countryJsonId": "ET",
+        "countryJsonName": "Ethiopia",
+        "country-json-continent": "Africa"
+    },
+    "FI": {
+        "countryJsonId": "FI",
+        "countryJsonName": "Finland",
+        "country-json-continent": "Europa"
+    },
+    "FJ": {
+        "countryJsonId": "FJ",
+        "countryJsonName": "Fiji",
+        "country-json-continent": "Oceania"
+    },
+    "FK": {
+        "countryJsonId": "FK",
+        "countryJsonName": "Falkland Islands",
+        "country-json-continent": "Europa"
+    },
+    "GF": {
+        "countryJsonId": "GF",
+        "countryJsonName": "France",
+        "country-json-continent": "Europa"
+    },
+    "GA": {
+        "countryJsonId": "GA",
+        "countryJsonName": "Gabon",
+        "country-json-continent": "Africa"
+    },
+    "GB": {
+        "countryJsonId": "GB",
+        "countryJsonName": "United Kingdom",
+        "country-json-continent": "Europa"
+    },
+    "GE": {
+        "countryJsonId": "GE",
+        "countryJsonName": "Georgia",
+        "country-json-continent": "Europa"
+    },
+    "GH": {
+        "countryJsonId": "GH",
+        "countryJsonName": "Ghana",
+        "country-json-continent": "Africa"
+    },
+    "GN": {
+        "countryJsonId": "GN",
+        "countryJsonName": "Guinea",
+        "country-json-continent": "Africa"
+    },
+    "GM": {
+        "countryJsonId": "GM",
+        "countryJsonName": "The Gambia",
+        "country-json-continent": "Africa"
+    },
+    "GW": {
+        "countryJsonId": "GW",
+        "countryJsonName": "Guinea-Bissau",
+        "country-json-continent": "Africa"
+    },
+    "GQ": {
+        "countryJsonId": "GQ",
+        "countryJsonName": "Equatorial Guinea",
+        "country-json-continent": "Africa"
+    },
+    "GR": {
+        "countryJsonId": "GR",
+        "countryJsonName": "Greece",
+        "country-json-continent": "Europa"
+    },
+    "GL": {
+        "countryJsonId": "GL",
+        "countryJsonName": "Greenland",
+        "country-json-continent": "Europa"
+    },
+    "GT": {
+        "countryJsonId": "GT",
+        "country-json-continent": "Central America",
+        "countryJsonName": "Guatemala"
+    },
+    "GY": {
+        "countryJsonId": "GY",
+        "countryJsonName": "Guyana",
+        "country-json-continent": "South America"
+    },
+    "HN": {
+        "countryJsonId": "HN",
+        "countryJsonName": "Honduras",
+        "country-json-continent": "Central America"
+    },
+    "HR": {
+        "countryJsonId": "HR",
+        "countryJsonName": "Croatia",
+        "country-json-continent": "Europa"
+    },
+    "HT": {
+        "countryJsonId": "HT",
+        "countryJsonName": "Haiti",
+        "country-json-continent": "Central America"
+    },
+    "HU": {
+        "countryJsonId": "HU",
+        "countryJsonName": "Hungary",
+        "country-json-continent": "Europa"
+    },
+    "ID": {
+        "countryJsonId": "ID",
+        "countryJsonName": "Indonesia",
+        "country-json-continent": "Asia"
+    },
+    "IN": {
+        "countryJsonId": "IN",
+        "countryJsonName": "India",
+        "country-json-continent": "Asia"
+    },
+    "IE": {
+        "countryJsonId": "IE",
+        "countryJsonName": "Ireland",
+        "country-json-continent": "Europa"
+    },
+    "IR": {
+        "countryJsonId": "IR",
+        "countryJsonName": "Iran",
+        "country-json-continent": "Asia"
+    },
+    "IQ": {
+        "countryJsonId": "IQ",
+        "countryJsonName": "Iraq",
+        "country-json-continent": "Asia"
+    },
+    "IS": {
+        "countryJsonId": "IS",
+        "countryJsonName": "Iceland",
+        "country-json-continent": "Europa"
+    },
+    "IL": {
+        "countryJsonId": "IL",
+        "countryJsonName": "Israel",
+        "country-json-continent": "Asia"
+    },
+    "IT": {
+        "countryJsonId": "IT",
+        "countryJsonName": "Italy",
+        "country-json-continent": "Europa"
+    },
+    "JM": {
+        "countryJsonId": "JM",
+        "countryJsonName": "Jamaica",
+        "country-json-continent": "Central America"
+    },
+    "JO": {
+        "countryJsonId": "JO",
+        "countryJsonName": "Jordan",
+        "country-json-continent": "Asia"
+    },
+    "JP": {
+        "countryJsonId": "JP",
+        "countryJsonName": "Japan",
+        "country-json-continent": "Asia"
+    },
+    "KZ": {
+        "countryJsonId": "KZ",
+        "countryJsonName": "Kazakhstan",
+        "country-json-continent": "Asia"
+    },
+    "KE": {
+        "countryJsonId": "KE",
+        "countryJsonName": "Kenya",
+        "country-json-continent": "Africa"
+    },
+    "KG": {
+        "countryJsonId": "KG",
+        "countryJsonName": "Kyrgyzstan",
+        "country-json-continent": "Asia"
+    },
+    "KH": {
+        "countryJsonId": "KH",
+        "countryJsonName": "Cambodia",
+        "country-json-continent": "Asia"
+    },
+    "KR": {
+        "countryJsonId": "KR",
+        "countryJsonName": "Republic of Korea",
+        "country-json-continent": "Asia"
+    },
+    "KS": {
+        "countryJsonId": "KS",
+        "countryJsonName": "Kosovo",
+        "country-json-continent": "Europa"
+    },
+    "KW": {
+        "countryJsonId": "KW",
+        "countryJsonName": "Kuwait",
+        "country-json-continent": "Asia"
+    },
+    "LA": {
+        "countryJsonId": "LA",
+        "countryJsonName": "Lao PDR",
+        "country-json-continent": "Asia"
+    },
+    "LB": {
+        "countryJsonId": "LB",
+        "countryJsonName": "Lebanon",
+        "country-json-continent": "Asia"
+    },
+    "LR": {
+        "countryJsonId": "LR",
+        "countryJsonName": "Liberia",
+        "country-json-continent": "Africa"
+    },
+    "LY": {
+        "countryJsonId": "LY",
+        "countryJsonName": "Libya",
+        "country-json-continent": "Africa"
+    },
+    "LK": {
+        "countryJsonId": "LK",
+        "countryJsonName": "Sri Lanka",
+        "country-json-continent": "Asia"
+    },
+    "LS": {
+        "countryJsonId": "LS",
+        "countryJsonName": "Lesotho",
+        "country-json-continent": "Africa"
+    },
+    "LT": {
+        "countryJsonId": "LT",
+        "countryJsonName": "Lithuania",
+        "country-json-continent": "Europa"
+    },
+    "LU": {
+        "countryJsonId": "LU",
+        "countryJsonName": "Luxembourg",
+        "country-json-continent": "Europa"
+    },
+    "LV": {
+        "countryJsonId": "LV",
+        "countryJsonName": "Latvia",
+        "country-json-continent": "Europa"
+    },
+    "MA": {
+        "countryJsonId": "MA",
+        "countryJsonName": "Morocco",
+        "country-json-continent": "Africa"
+    },
+    "MD": {
+        "countryJsonId": "MD",
+        "countryJsonName": "Moldova",
+        "country-json-continent": "Europa"
+    },
+    "MG": {
+        "countryJsonId": "MG",
+        "countryJsonName": "Madagascar",
+        "country-json-continent": "Africa"
+    },
+    "MX": {
+        "countryJsonId": "MX",
+        "countryJsonName": "Mexico",
+        "country-json-continent": "North America"
+    },
+    "MK": {
+        "countryJsonId": "MK",
+        "countryJsonName": "Macedonia",
+        "country-json-continent": "Europa"
+    },
+    "ML": {
+        "countryJsonId": "ML",
+        "countryJsonName": "Mali",
+        "country-json-continent": "Africa"
+    },
+    "MM": {
+        "countryJsonId": "MM",
+        "countryJsonName": "Myanmar",
+        "country-json-continent": "Asia"
+    },
+    "ME": {
+        "countryJsonId": "ME",
+        "countryJsonName": "Montenegro",
+        "country-json-continent": "Europa"
+    },
+    "MN": {
+        "countryJsonId": "MN",
+        "countryJsonName": "Mongolia",
+        "country-json-continent": "Asia"
+    },
+    "MZ": {
+        "countryJsonId": "MZ",
+        "countryJsonName": "Mozambique",
+        "country-json-continent": "Africa"
+    },
+    "MR": {
+        "countryJsonId": "MR",
+        "countryJsonName": "Mauritania",
+        "country-json-continent": "Africa"
+    },
+    "MW": {
+        "countryJsonId": "MW",
+        "countryJsonName": "Malawi",
+        "country-json-continent": "Africa"
+    },
+    "MY": {
+        "countryJsonId": "MY",
+        "countryJsonName": "Malaysia",
+        "country-json-continent": "Asia"
+    },
+    "NA": {
+        "countryJsonId": "NA",
+        "countryJsonName": "Namibia",
+        "country-json-continent": "Africa"
+    },
+    "NC": {
+        "countryJsonId": "NC",
+        "countryJsonName": "New Caledonia",
+        "country-json-continent": "Europa"
+    },
+    "NE": {
+        "countryJsonId": "NE",
+        "countryJsonName": "Niger",
+        "country-json-continent": "Africa"
+    },
+    "NG": {
+        "countryJsonId": "NG",
+        "countryJsonName": "Nigeria",
+        "country-json-continent": "Africa"
+    },
+    "NI": {
+        "countryJsonId": "NI",
+        "countryJsonName": "Nicaragua",
+        "country-json-continent": "Central America"
+    },
+    "NL": {
+        "countryJsonId": "NL",
+        "countryJsonName": "Netherlands",
+        "country-json-continent": "Europa"
+    },
+    "NO": {
+        "countryJsonId": "NO",
+        "countryJsonName": "Norway",
+        "country-json-continent": "Europa"
+    },
+    "NP": {
+        "countryJsonId": "NP",
+        "countryJsonName": "Nepal",
+        "country-json-continent": "Asia"
+    },
+    "NZ": {
+        "countryJsonId": "NZ",
+        "countryJsonName": "New Zealand",
+        "country-json-continent": "Oceania"
+    },
+    "OM": {
+        "countryJsonId": "OM",
+        "countryJsonName": "Oman",
+        "country-json-continent": "Asia"
+    },
+    "PK": {
+        "countryJsonId": "PK",
+        "countryJsonName": "Pakistan",
+        "country-json-continent": "Asia"
+    },
+    "PA": {
+        "countryJsonId": "PA",
+        "countryJsonName": "Panama",
+        "country-json-continent": "Central America"
+    },
+    "PE": {
+        "countryJsonId": "PE",
+        "countryJsonName": "Peru",
+        "country-json-continent": "South America"
+    },
+    "PH": {
+        "countryJsonId": "PH",
+        "countryJsonName": "Philippines",
+        "country-json-continent": "Asia"
+    },
+    "PG": {
+        "countryJsonId": "PG",
+        "countryJsonName": "Papua New Guinea",
+        "country-json-continent": "Oceania"
+    },
+    "PL": {
+        "countryJsonId": "PL",
+        "countryJsonName": "Poland",
+        "country-json-continent": "Europa"
+    },
+    "PR": {
+        "countryJsonId": "PR",
+        "countryJsonName": "Puerto Rico",
+        "country-json-continent": "Central America"
+    },
+    "KP": {
+        "countryJsonId": "KP",
+        "countryJsonName": "Dem. Rep. Korea",
+        "country-json-continent": "Asia"
+    },
+    "PT": {
+        "countryJsonId": "PT",
+        "countryJsonName": "Portugal",
+        "country-json-continent": "Europa"
+    },
+    "PY": {
+        "countryJsonId": "PY",
+        "countryJsonName": "Paraguay",
+        "country-json-continent": "South America"
+    },
+    "PS": {
+        "countryJsonId": "PS",
+        "countryJsonName": "Palestine",
+        "country-json-continent": "Asia"
+    },
+    "QA": {
+        "countryJsonId": "QA",
+        "countryJsonName": "Qatar",
+        "country-json-continent": "Asia"
+    },
+    "RO": {
+        "countryJsonId": "RO",
+        "countryJsonName": "Romania",
+        "country-json-continent": "Europa"
+    },
+    "RU": {
+        "countryJsonId": "RU",
+        "countryJsonName": "Russian Federation",
+        "country-json-continent": "Europa"
+    },
+    "RW": {
+        "countryJsonId": "RW",
+        "countryJsonName": "Rwanda",
+        "country-json-continent": "Africa"
+    },
+    "EH": {
+        "countryJsonId": "EH",
+        "countryJsonName": "Western Sahara",
+        "country-json-continent": "Africa"
+    },
+    "SA": {
+        "countryJsonId": "SA",
+        "countryJsonName": "Saudi Arabia",
+        "country-json-continent": "Asia"
+    },
+    "SD": {
+        "countryJsonId": "SD",
+        "countryJsonName": "Sudan",
+        "country-json-continent": "Africa"
+    },
+    "SS": {
+        "countryJsonId": "SS",
+        "countryJsonName": "South Sudan",
+        "country-json-continent": "Africa"
+    },
+    "SN": {
+        "countryJsonId": "SN",
+        "countryJsonName": "Senegal",
+        "country-json-continent": "Africa"
+    },
+    "SB": {
+        "countryJsonId": "SB",
+        "countryJsonName": "Solomon Islands",
+        "country-json-continent": "Oceania"
+    },
+    "SL": {
+        "countryJsonId": "SL",
+        "countryJsonName": "Sierra Leone",
+        "country-json-continent": "Africa"
+    },
+    "SV": {
+        "countryJsonId": "SV",
+        "countryJsonName": "El Salvador",
+        "country-json-continent": "Central America"
+    },
+    "SM": {
+        "countryJsonId": "SM",
+        "countryJsonName": "Somaliland",
+        "country-json-continent": "Africa"
+    },
+    "SO": {
+        "countryJsonId": "SO",
+        "countryJsonName": "Somalia",
+        "country-json-continent": "Africa"
+    },
+    "RS": {
+        "countryJsonId": "RS",
+        "countryJsonName": "Serbia",
+        "country-json-continent": "Europa"
+    },
+    "SR": {
+        "countryJsonId": "SR",
+        "countryJsonName": "Suriname",
+        "country-json-continent": "South America"
+    },
+    "SK": {
+        "countryJsonId": "SK",
+        "countryJsonName": "Slovakia",
+        "country-json-continent": "Europa"
+    },
+    "SI": {
+        "countryJsonId": "SI",
+        "countryJsonName": "Slovenia",
+        "country-json-continent": "Europa"
+    },
+    "SE": {
+        "countryJsonId": "SE",
+        "countryJsonName": "Sweden",
+        "country-json-continent": "Europa"
+    },
+    "SZ": {
+        "countryJsonId": "SZ",
+        "countryJsonName": "Swaziland",
+        "country-json-continent": "Africa"
+    },
+    "SY": {
+        "countryJsonId": "SY",
+        "countryJsonName": "Syria",
+        "country-json-continent": "Asia"
+    },
+    "TD": {
+        "countryJsonId": "TD",
+        "countryJsonName": "Chad",
+        "country-json-continent": "Africa"
+    },
+    "TG": {
+        "countryJsonId": "TG",
+        "countryJsonName": "Togo",
+        "country-json-continent": "Africa"
+    },
+    "TH": {
+        "countryJsonId": "TH",
+        "countryJsonName": "Thailand",
+        "country-json-continent": "Asia"
+    },
+    "TJ": {
+        "countryJsonId": "TJ",
+        "countryJsonName": "Tajikistan",
+        "country-json-continent": "Asia"
+    },
+    "TM": {
+        "countryJsonId": "TM",
+        "countryJsonName": "Turkmenistan",
+        "country-json-continent": "Asia"
+    },
+    "TL": {
+        "countryJsonId": "TL",
+        "countryJsonName": "Timor-Leste",
+        "country-json-continent": "Asia"
+    },
+    "TT": {
+        "countryJsonId": "TT",
+        "countryJsonName": "Trinidad and Tobago",
+        "country-json-continent": "Central America"
+    },
+    "TN": {
+        "countryJsonId": "TN",
+        "countryJsonName": "Tunisia",
+        "country-json-continent": "Africa"
+    },
+    "TR": {
+        "countryJsonId": "TR",
+        "countryJsonName": "Tükiye",
+        "country-json-continent": "Europa"
+    },
+    "TW": {
+        "countryJsonId": "TW",
+        "countryJsonName": "Taiwan",
+        "country-json-continent": "Asia"
+    },
+    "TZ": {
+        "countryJsonId": "TZ",
+        "countryJsonName": "Tanzania",
+        "country-json-continent": "Africa"
+    },
+    "UG": {
+        "countryJsonId": "UG",
+        "countryJsonName": "Uganda",
+        "country-json-continent": "Africa"
+    },
+    "UA": {
+        "countryJsonId": "UA",
+        "countryJsonName": "Ukraine",
+        "country-json-continent": "Europa"
+    },
+    "UY": {
+        "countryJsonId": "UY",
+        "countryJsonName": "Uruguay",
+        "country-json-continent": "South America"
+    },
+    "US": {
+        "countryJsonId": "US",
+        "countryJsonName": "United States",
+        "country-json-continent": "North America"
+    },
+    "UZ": {
+        "countryJsonId": "UZ",
+        "countryJsonName": "Uzbekistan",
+        "country-json-continent": "Asia"
+    },
+    "VE": {
+        "countryJsonId": "VE",
+        "countryJsonName": "Venezuela",
+        "country-json-continent": "South America"
+    },
+    "VN": {
+        "countryJsonId": "VN",
+        "countryJsonName": "Vietnam",
+        "country-json-continent": "Asia"
+    },
+    "VU": {
+        "countryJsonId": "VU",
+        "countryJsonName": "Vanuatu",
+        "country-json-continent": "Oceania"
+    },
+    "YE": {
+        "countryJsonId": "YE",
+        "countryJsonName": "Yemen",
+        "country-json-continent": "Asia"
+    },
+    "ZA": {
+        "countryJsonId": "ZA",
+        "countryJsonName": "South Africa",
+        "country-json-continent": "Africa"
+    },
+    "ZM": {
+        "countryJsonId": "ZM",
+        "countryJsonName": "Zambia",
+        "country-json-continent": "Africa"
+    },
+    "ZW": {
+        "countryJsonId": "ZW",
+        "countryJsonName": "Zimbabwe",
+        "country-json-continent": "Africa"
+    },
+    "FR": {
+        "countryJsonId": "FR",
+        "countryJsonName": "France",
+        "country-json-continent": "Europa"
+    }
+}

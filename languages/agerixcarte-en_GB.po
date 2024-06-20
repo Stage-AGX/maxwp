@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: agerixcarte\n"
+"Language: en-gb\n"
+
+#: 
+msgid "agerix map"
+msgstr "agerix map"
+
+#: 
+msgid "manage_options"
+msgstr "manage_options"
+
+#: 
+msgid "agerixmap"
+msgstr "agerixmap"
+
+#: 
+msgid "manage countries"
+msgstr "manage countries"
+
+#: 
+msgid "admin menu"
+msgstr "admin menu"
+
+#: 
+msgid "colour"
+msgstr "colour"
+
+#: 
+msgid "dashboard"
+msgstr "dashboard"
+
+#: 
+msgid "politic"
+msgstr "politic"
+
+#: 
+msgid "politics"
+msgstr "politics"
+
+#: 
+msgid "category"
+msgstr "category"
+
+#: 
+msgid "categories"
+msgstr "categories"
+
+#: 
+msgid "country"
+msgstr "country"
+
+#: 
+msgid "countries"
+msgstr "countries"
+
+#: 
+msgid "define"
+msgstr "define"
+
+#: 
+msgid "continent"
+msgstr "continent"
+
+#: 
+msgid "Countries added"
+msgstr "countries added"
+
+#: 
+msgid "Countries not categorised"
+msgstr "countries not categorised"
+
+#: 
+msgid "save"
+msgstr "save"
+
+#: 
+msgid "search"
+msgstr "search"
+
+#: 
+msgid "parameters of my first plugin"
+msgstr "parameters of my first plugin"
+
+#: 
+msgid "my first plugin"
+msgstr "my first plugin"
+
+#: 
+msgid "myfirstplugin"
+msgstr "myfirstplugin"
+
+#: 
+#, fuzzy
+msgid "File SVG not found"
+msgstr "File svg not found"
+
+#: 
+msgid "welcome"
+msgstr "Welcome to the Agerix map dashboard. Here you can manage countries and their categories."
+
+#: 
+msgid "menu gauche"
+msgstr "Use the menu on the left to navigate and perform actions."
+
